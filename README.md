@@ -1,2 +1,2 @@
 # Django_exercises
-Exercise from django courses 
+Exercise from django course
