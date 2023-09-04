@@ -1,2 +1,3 @@
 # Django_exercises
-Exercise from django course
+# Exercise from Django course 
+# mande on Udemy very usefull  
